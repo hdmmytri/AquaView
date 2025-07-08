@@ -21,7 +21,7 @@
 ### Turn off and turn on the setup mode
 ![st2](https://github.com/user-attachments/assets/709405d7-edce-4b42-978b-f3933e307645)
 
-Run the application and use the GUI to add, configure, and remove widgets as needed.
+Run the application and use the UI to add, configure, and remove widgets as needed.
 
 ## License
 
