@@ -1,5 +1,6 @@
 # Aqua View
 ### A desktop application with a graphical user interface that allows users to add widgets to their desktop.
+### [Download Widget Pack](#download-default-widgets)
 ![icon-6](https://github.com/user-attachments/assets/cbfef1c6-26a1-45c3-8500-3517c0b1da6f)
 <br />
 <br />
