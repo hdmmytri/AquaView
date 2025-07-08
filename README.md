@@ -1,24 +1,25 @@
 # Aqua View
-
-A desktop application with a graphical user interface that allows users to add customizable widgets to their desktop.
-
+### A desktop application with a graphical user interface that allows users to add widgets to their desktop.
+![icon-6](https://github.com/user-attachments/assets/cbfef1c6-26a1-45c3-8500-3517c0b1da6f)
 
 ## Features
+  ### Widgets are built using standard HTML and CSS, providing full freedom to create and style.
+  ![Recording2025-07-08124209-ezgif com-optimize](https://github.com/user-attachments/assets/69b12b86-6319-4d83-9ee0-ce7c929b8064)
 
-- Widgets are built using standard HTML and CSS, providing full freedom to create and style.
-- Easy-to-use interface for managing widgets on the desktop.
-![Recording2025-07-08124209-ezgif com-optimize](https://github.com/user-attachments/assets/69b12b86-6319-4d83-9ee0-ce7c929b8064)
-![st1](https://github.com/user-attachments/assets/90aa561f-8903-4377-8004-866728108037)
-
+  ### Easy-to-use interface for managing widgets on the desktop.
+  ![Recording2025-07-08124532-ezgif com-optimize](https://github.com/user-attachments/assets/f6caead4-fa53-48cd-9d8b-92c693a7561a)
 ## Usage
 
-### Get Widgets
+### Download Default Widgets
 ![image](https://github.com/user-attachments/assets/74992e53-e494-4005-b9b1-b2a8c47ad9e9)
 <br />
 [Widgets.zip](https://github.com/user-attachments/files/21120184/Widgets.zip)
 
 ### Browse Your Widget's folder
-![Recording2025-07-08124532-ezgif com-optimize](https://github.com/user-attachments/assets/f6caead4-fa53-48cd-9d8b-92c693a7561a)
+![st1](https://github.com/user-attachments/assets/90aa561f-8903-4377-8004-866728108037)
+
+### Turn off and turn on the setup mode
+![st2](https://github.com/user-attachments/assets/709405d7-edce-4b42-978b-f3933e307645)
 
 Run the application and use the GUI to add, configure, and remove widgets as needed.
 
