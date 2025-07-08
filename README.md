@@ -13,7 +13,7 @@
 ### Download Default Widgets
 ![image](https://github.com/user-attachments/assets/74992e53-e494-4005-b9b1-b2a8c47ad9e9)
 <br />
-[Widgets.zip](https://github.com/user-attachments/files/21120184/Widgets.zip)
+[Widgets.zip](https://github.com/user-attachments/files/21121112/Widgets.zip)
 
 ### Browse Your Widget's folder
 ![st1](https://github.com/user-attachments/assets/90aa561f-8903-4377-8004-866728108037)
