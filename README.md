@@ -18,10 +18,20 @@
 ### Browse Your Widget's folder
 ![st1](https://github.com/user-attachments/assets/90aa561f-8903-4377-8004-866728108037)
 
-### Turn off and turn on the setup mode
+### Turn on the "Setup" mode
 ![st2](https://github.com/user-attachments/assets/709405d7-edce-4b42-978b-f3933e307645)
 
-Run the application and use the UI to add, configure, and remove widgets as needed.
+### Run the application and use the UI to add, configure, and remove widgets as needed.
+
+## Overview
+### Setup mode ON
+![Recording2025-07-08133735-ezgif com-optimize](https://github.com/user-attachments/assets/edb964bb-9c57-4fcf-8d59-ecf7165d4273)
+
+### Setup mode OFF
+![Recording2025-07-08134017-ezgif com-optimize](https://github.com/user-attachments/assets/374e0d9b-3c84-4020-8afb-e1208c3c0ab2)
+
+### Widget Properties
+![Untitled-2](https://github.com/user-attachments/assets/bcb34f39-2dd8-47b3-ae0f-8f4fbf69e6da)
 
 ## License
 
