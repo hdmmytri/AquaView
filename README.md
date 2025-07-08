@@ -1,6 +1,10 @@
 # Aqua View
 ### A desktop application with a graphical user interface that allows users to add widgets to their desktop.
 ![icon-6](https://github.com/user-attachments/assets/cbfef1c6-26a1-45c3-8500-3517c0b1da6f)
+<br />
+<br />
+![image](https://github.com/user-attachments/assets/451dddde-5e33-423d-9ca8-20823405802f)
+
 
 ## Features
   ### Widgets are built using standard HTML and CSS, providing full freedom to create and style.
